@@ -1,0 +1,15 @@
+{
+  "name": "streamagm-heros-api",
+  "version": "1.0.0",
+  "description": "streamagm-heros-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resideozsoy/streamAGM-heros-api.git"
+  },
+  "author": "Reside Ozsoy",
+  "license": "ISC"
+}
