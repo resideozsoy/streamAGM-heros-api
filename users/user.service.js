@@ -22,7 +22,8 @@ async function authenticate({ username, password }) {
         const { password, ...userWithoutPassword } = user;
         return {
             ...userWithoutPassword,
-            token
+            token,
+            expiresIn: 3
         };
     }
 }
